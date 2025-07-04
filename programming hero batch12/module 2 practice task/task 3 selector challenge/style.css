@@ -1,0 +1,53 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.first {
+  padding: 20px;
+  margin: 10px;
+}
+.second {
+  margin: 30px;
+}
+h1 {
+  margin: 10px;
+}
+#snd {
+  font-size: 16px;
+  margin: 20px;
+  padding: 20px;
+}
+.first {
+  background: aqua;
+}
+.third {
+  padding: 20px;
+  background: grey;
+}
+.second {
+  background: yellow;
+}
+form {
+  background: grey;
+  text-align: center;
+}
+input {
+  font-size: 30px;
+  fon
+}
+
+input[type="password"] {
+  color: red;
+}
+input[type="submit"] {
+  color: blue;
+  background: skyblue;
+  font-size: 20px;
+  padding: 10px;
+  font-family: times-new-roman;
+  border: 2px solid blue;
+  font-weight: bold;
+  border-radius: 10px;
+  border:
+  fon
+}

@@ -1,0 +1,42 @@
+.section {
+  height: 200px;
+  color: white;
+  font-size: 24px;
+  /* display: flex; */
+  /* align-items: center; */
+  /* justify-content: center; */
+}
+
+/* Background color */
+.secone {
+  background-color: teal;
+  padding: 20px;
+}
+.secone p {
+  padding: 20px;
+}
+
+/* Background image with repeat */
+.two {
+  background-image: url("https://picsum.photos/300");
+  background-repeat: repeat;
+  background-size: 100px 100px;
+  height: 400px;
+  width: 400px;
+  margin: 50px;
+}
+
+/* Background image with no-repeat and positioned */
+.three {
+  background-image: url("https://picsum.photos/400");
+  background-repeat: no-repeat;
+  background-position: right bottom;
+  background-size: cover;
+  height: 300px;
+  width: 300px;
+  margin: 40px;
+}
+p {
+  font-family: sans-serif;
+  background: orange;
+}
